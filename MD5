@@ -1,0 +1,9 @@
+a3e8a40ab2a3c99e7e663b39853209c2 *DESCRIPTION
+de20c713f2fc2d33cd74eda086e1a456 *LICENSE
+f1fd4bd8e77dbea8996727fd9df38e9c *NAMESPACE
+48eab4a43ffaaa18f97c7b7e55220888 *R/find_trials.R
+4c5b91171026f75dba6c10318c5b2a30 *R/old_bailey_api_terms.R
+698c437d4c093e1a7afb1c8b12a07f4b *R/parse_trials.R
+729a2e25d86f2248960d237a0b1085e0 *man/find_trials.Rd
+2903f703a3a6439ae9b2fa8c983cb4c8 *man/old_bailey_api_terms.Rd
+5cf10af7ad13ffe655f0a898d7faa438 *man/parse_trials.Rd
